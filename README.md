@@ -9,8 +9,9 @@ Focused on building modern, efficient, and user-centered web applications.
 <a href="https://github.com/GabBruno/synergy" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-Synergy-blue?style=for-the-badge">
 </a>
-<a href="https://github.com" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+
+<a href="https://www.linkedin.com/in/erik-pinheiro-715589374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
 
